@@ -1,0 +1,26 @@
+{
+  "name": "sass_lib",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "gulp": "gulp",
+    "minify": "gulp minify"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BD4vid777/Sass_Library.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BD4vid777/Sass_Library/issues"
+  },
+  "homepage": "https://github.com/BD4vid777/Sass_Library#readme",
+  "description": "",
+  "devDependencies": {
+    "gulp": "^4.0.0",
+    "gulp-sass": "^5.0.0",
+    "sass": "^1.42.1"
+  }
+}
